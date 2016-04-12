@@ -8,6 +8,7 @@
 <body>
 <?php 
 echo"My first Line";
+echo"amal task";
 ?>
 </body>
 </html>
